@@ -9,8 +9,6 @@
     <div style="flex-basis: 33%">
       <lista-videogames></lista-videogames>
     </div>
-
-
   </div>
 </template>
 
